@@ -16,11 +16,13 @@ A Python script that scrapes data from websites and saves it to a CSV file.
 4. Run: `python scraper.py`
 
 ## Example output
+```
 Scraped page 1...
 Scraped page 2...
 Scraped page 3...
 Done! Scraped 100 quotes.
 Saved to: quotes.csv
+```
 
 ## Tech used
 - Python 3
